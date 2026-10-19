@@ -1,0 +1,21 @@
+Date,Product,Category,Price,Quantity Sold,Total Sales
+2026-01-01,Milk,Dairy,60,10,600
+2026-01-01,Apple,Fruits,120,5,600
+2026-01-02,Bread,Bakery,40,15,600
+2026-01-02,Paneer,Dairy,100,8,800
+2026-01-03,Banana,Fruits,50,12,600
+2026-01-03,Cheese,Dairy,150,4,600
+2026-01-04,Cake,Bakery,300,3,900
+2026-01-04,Apple,Fruits,120,7,840
+2026-01-05,Milk,Dairy,60,20,1200
+2026-01-05,Bread,Bakery,40,10,400
+2026-01-06,Paneer,Dairy,100,12,1200
+2026-01-06,Banana,Fruits,50,15,750
+2026-01-07,Cheese,Dairy,150,6,900
+2026-01-07,Cake,Bakery,300,5,1500
+2026-01-08,Apple,Fruits,120,10,1200
+2026-01-08,Milk,Dairy,60,15,900
+2026-01-09,Bread,Bakery,40,20,800
+2026-01-09,Paneer,Dairy,100,10,1000
+2026-01-10,Banana,Fruits,50,20,1000
+2026-01-10,Cheese,Dairy,150,8,1200
